@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/IncommingSMSBroadcastReceiver.iml" filepath="$PROJECT_DIR$/IncommingSMSBroadcastReceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InCommingSms.iml" filepath="$PROJECT_DIR$/InCommingSms.iml" />
+      <module fileurl="file://C:\Users\zulkuf\AndroidStudioProjects\InCommingSms\IncommingSMSBroadcastReceiver.iml" filepath="C:\Users\zulkuf\AndroidStudioProjects\InCommingSms\IncommingSMSBroadcastReceiver.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
